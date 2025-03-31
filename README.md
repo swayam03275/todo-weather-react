@@ -50,17 +50,17 @@ Password: 1234
 📸 Screenshots
 
 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](https://github.com/swayam03275/todo-weather-react/blob/main/src/screenshots/login.png?raw=true)
 
 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://github.com/swayam03275/todo-weather-react/blob/main/src/screenshots/home.png?raw=true)
 
 
 Todo List
-![Todo List](screenshots/todo.png)
+![Todo List](https://github.com/swayam03275/todo-weather-react/blob/main/src/screenshots/login.png?raw=true)
 
 Weather Information
-![Weather Info](screenshots/weather.png)
+![Weather Info](https://github.com/swayam03275/todo-weather-react/blob/main/src/screenshots/weather.png?raw=true)
 
 📜 Tech Stack
 Frontend: React, Redux Toolkit, Bootstrap
